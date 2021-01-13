@@ -21,3 +21,12 @@ if __name__ == "__main__":
 	
 	# Print the dates in a sorted order 
 	printDates(dates) 
+
+# Output
+# 01 Jan 2007
+# 10 Jul 2016
+# 2 Dec 2017
+# 11 Jun 2018
+# 23 Jun 2018
+# 01 Jan 2019
+	
